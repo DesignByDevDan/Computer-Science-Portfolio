@@ -10,15 +10,16 @@ This portfolio showcases core software engineering skills including testing, sec
 
 Each folder below links to a separate GitHub repository containing source code, documentation, and project deliverables.
 
-| Course | Description | Folder |
-|--------|-------------|--------|
-| **CS-320 Software Testing & Automation** | Test-driven development, unit testing, automated testing tools | [`cs-320-testing`](./cs-320-testing) |
-| **CS-320 Project One** | Final project from Software Testing course | [`cs-320-project`](./cs-320-project) |
-| **CS-305 Software Security (Java)** | Java security principles, secure coding practices | [`cs-305-security`](./cs-305-security) |
-| **CS-255 Systems Analysis and Design** | UML, system requirements, software design documentation | [`cs-255-analysis`](./cs-255-analysis) |
-| **CS-300 Data Structures and Algorithms** | Implementation of classic DSA concepts in Java | [`cs-300-dsa`](./cs-300-dsa) |
-| **SDLC Course** | Software Development Life Cycle process and planning artifacts | [`sdlc-course`](./sdlc-course) |
-| **C Programming Course** | Foundational C programming concepts and logic | [`c-program`](./c-program) |
+| Course                                    | Description                                                                        | Folder                                                       |
+| ----------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **CS-320 Software Testing & Automation**  | Test-driven development, unit testing, automated testing tools                     | [`cs-320-testing`](./cs-320-testing)                         |
+| **CS-320 Project One**                    | Final project from Software Testing course                                         | [`cs-320-project`](./cs-320-project)                         |
+| **CS-305 Software Security (Java)**       | Java security principles, secure coding practices                                  | [`cs-305-security`](./cs-305-security)                       |
+| **CS-255 Systems Analysis and Design**    | UML, system requirements, software design documentation                            | [`cs-255-analysis`](./cs-255-analysis)                       |
+| **CS-300 Data Structures and Algorithms** | Implementation of classic DSA concepts in Java                                     | [`cs-300-dsa`](./cs-300-dsa)                                 |
+| **SDLC Course**                           | Software Development Life Cycle process and planning artifacts                     | [`sdlc-course`](./sdlc-course)                               |
+| **C Programming Course**                  | Foundational C programming concepts and logic                                      | [`c-program`](./c-program)                                   |
+| **CS-230 Operating Platforms**            | Software design document and web-based platform prototype for “Draw It or Lose It” | [`cs-230-operating-platforms`](./cs-230-operating-platforms) |
 
 ---
 
@@ -27,7 +28,7 @@ Each folder below links to a separate GitHub repository containing source code, 
 - Java
 - C
 - Python
-- JS
+- JavaScript
 - JUnit, Selenium
 - Git & GitHub
 - UML Tools
