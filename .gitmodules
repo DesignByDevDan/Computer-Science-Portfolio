@@ -1,3 +1,6 @@
 [submodule "cs-340-mongodb"]
 	path = cs-340-mongodb
 	url = https://github.com/DesignByDevDan/cs-340-mongodb.git
+[submodule "cs-330-client-server"]
+	path = cs-330-client-server
+	url = https://github.com/DesignByDevDan/cs-330-Client-Server.git
