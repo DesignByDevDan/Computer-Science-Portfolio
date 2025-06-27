@@ -1,0 +1,3 @@
+[submodule "cs-340-mongodb"]
+	path = cs-340-mongodb
+	url = https://github.com/DesignByDevDan/cs-340-mongodb.git
