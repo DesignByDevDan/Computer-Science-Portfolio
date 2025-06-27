@@ -20,6 +20,8 @@ Each folder below links to a separate GitHub repository containing source code, 
 | **SDLC Course**                           | Software Development Life Cycle process and planning artifacts                     | [`sdlc-course`](./sdlc-course)                               |
 | **C Programming Course**                  | Foundational C programming concepts and logic                                      | [`c-program`](./c-program)                                   |
 | **CS-230 Operating Platforms**            | Software design document and web-based platform prototype for “Draw It or Lose It” | [`cs-230-operating-platforms`](./cs-230-operating-platforms) |
+| **CS-340 MongoDB & Dashboards**           | Shell queries, aggregation pipelines, and dashboard write-ups                      | [cs-340-mongodb](./cs-340-mongodb)                           |
+
 
 ---
 
